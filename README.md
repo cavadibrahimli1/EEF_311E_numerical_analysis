@@ -18,7 +18,7 @@ Numerical Analysis is a fundamental field that involves the development and impl
 Clone the Repository:
 
 ```bash
-    git clone https://github.com/your-username/EEF_311E_numerical_analysis.git
+    git clone https://github.com/cavadibrahimli1/EEF_311E_numerical_analysis.git
 ```
 
 
