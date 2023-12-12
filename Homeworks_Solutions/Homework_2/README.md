@@ -41,9 +41,12 @@ Scans the file and returns the coefficients of the polynomials.
 2. Clone the repository
 
 ```bash
-  git clone https://github.com/yourusername/yourrepository.git
+  git clone https://github.com/cavadibrahimli1/EEF_311E_numerical_analysis.git
 ```
 3. Navigate to the project directory:
+```bash
+  cd Homeworks_Solutions/Homework_2
+```
 4. Run the main script
 
 python 6583314.py
