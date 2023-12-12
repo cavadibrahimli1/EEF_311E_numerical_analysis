@@ -1,0 +1,17 @@
+Given equations:
+y1= 3x**2-14x+8
+y2= 2x**2-7x+3
+The roots of y1:
+Interval: -1.0-1.0
+Iteration=21
+x1=0.66667
+Interval: 3.0-4.0
+Iteration=20
+x2=4
+The roots of y2:
+Interval: -1.0-1.0
+Iteration=2
+x1=0.5
+Interval: 2.0-3.0
+Iteration=20
+x2=3
